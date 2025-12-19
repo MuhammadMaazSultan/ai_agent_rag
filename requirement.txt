@@ -1,0 +1,8 @@
+streamlit
+Langchain 
+Langchain-ollama
+Langchain-community
+chromadb
+pypdf
+ollama
+faisa-cpu
