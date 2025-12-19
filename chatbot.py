@@ -9,7 +9,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
 
 from config import DATA_DIR, STORAGE_DIR, CHUNK_SIZE, RETRIEVAL_TOP_K, PROMPT_TEMPLATE
-
+# some changes
 class HistoryChatBotRag:
     def __init__(self, model_name, embedding_model, prompt_template):
 
